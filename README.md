@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🔭 I’m currently a freshmen at IBA. 
+ 🔭 I’m currently a Sophmore at IBA. 
  
  🌱 I’m currently learning to get my way around Github.
  
