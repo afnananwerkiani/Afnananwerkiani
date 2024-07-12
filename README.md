@@ -2,9 +2,9 @@
 
  🔭 I’m currently a CS Junior at IBA. 
  
- 📫 How to reach me: a.kiani.26900@khi.iba.edu.pk.
+ 📫 Email: a.kiani.26900@khi.iba.edu.pk.
  
-## Cover Letter/About
+## Cover Letter / About
 
 As a (rising) Computer Science junior at the Institute of Business Administration, Karachi, my academic journey has equipped me with a solid foundation in computer science principles and practical experience in various programming languages and technologies.
 
